@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AdityaMohnot
+- 👀 I’m interested in Coding and Sports
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ; one can reach me via email ; my email - v.aditya.mohnot@gmail.com ;
