@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AdityaMohnot.
+- I am 13 years old.
+- 👀 I’m interested in Web and App development.
+- 🌱 I’m currently learning Python, HTML, CSS, Javascript.
+- I plan on learning Java.
+- 📫 my e-mail = v.aditya.mohnot@gmail.com.
+- If you know about any good courses of Python, HTML, CSS, Javascript and Java then you can inform me through my e-mail and it will be really appreciated.
